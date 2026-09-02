@@ -1,0 +1,9 @@
+{"input": "Squares.new(1).square_of_sum", "expect": 1, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(5).square_of_sum", "expect": 225, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(100).square_of_sum", "expect": 25502500, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(1).sum_of_squares", "expect": 1, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(5).sum_of_squares", "expect": 55, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(100).sum_of_squares", "expect": 338350, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(1).difference", "expect": 0, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(5).difference", "expect": 170, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
+{"input": "Squares.new(100).difference", "expect": 25164150, "raised": false, "task": "difference-of-squares", "lang": "ruby"}
